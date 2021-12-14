@@ -10,6 +10,8 @@ import java.util.List;
 
 public class Trailer {
     private static WebDriver driver;
+    
+    //website that has trailers for sale. may no longer be a functional site
     private static final String donutSite = "https://classifieds.ksl.com/search/Recreational-Vehicles/Travel-Trailers-5th-Wheel/priceFrom/4000/priceTo/10000/Private/Sale/Has-Photos";
 
     public Trailer() {
